@@ -1,25 +1,24 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-
-
-
-/* Section CSS */
-
-
-
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
+.navbar-list div {
+    padding:10px 40px;
+    border: 1px solid silver;
+    border-top:0;
+    border-bottom:0;
+    display: inline-block;
+    margin:0;
+}
+.navbar-list{
+    margin:0 auto;
+}
+body{
+    margin:0;
+    text-align: center;
+}
+.content {
+    text-align: left;
+    width:60%;
+    margin:30px auto;
+    border: 1px solid black;
+    border-top:0;
+    border-bottom: 0;
+    padding:0 20px;
+}
